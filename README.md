@@ -5,30 +5,41 @@ For Better Experience Copy href link and paste in new tab and save that file in 
 I will also link all the download files of this.
 
 
-Css Links : 
-Bootstrap :
+**Css Links:**
+
+_Bootstrap :_
 https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
-animate :
+
+_animate :_
 https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css
-font awesome : 
+
+_font awesome : _
 https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
-Magnific popup (if needed we will use ) :
+
+_Magnific popup (if needed we will use ) :_
 https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.min.css
-slick slider (if needed we will use) :
+
+_slick slider (if needed we will use) :_
 https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css
    
-Js Links: 
-jQuery :
+**Js Links: **
+
+_jQuery :_
 https://code.jquery.com/jquery-3.6.0.js
-Bootstrap :
+
+_Bootstrap :_
 https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
-isotope for gallery section :
+
+_isotope for gallery section :_
 https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js
-magnific-popup (if needed we will use) :
+
+_magnific-popup (if needed we will use) :_
 https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js
-slick slider (if needed we will use) : 
+
+_slick slider (if needed we will use) : _
 https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js
-wow :
+
+_wow :_
 https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js
     
     
