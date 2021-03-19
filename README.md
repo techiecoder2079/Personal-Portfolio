@@ -13,7 +13,7 @@ https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
 _animate :_
 https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css
 
-_font awesome : _
+_font awesome :_
 https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 
 _Magnific popup (if needed we will use ) :_
@@ -36,7 +36,7 @@ https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js
 _magnific-popup (if needed we will use) :_
 https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js
 
-_slick slider (if needed we will use) : _
+_slick slider (if needed we will use) :_
 https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js
 
 _wow :_
