@@ -22,7 +22,7 @@ https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.mi
 _slick slider (if needed we will use) :_
 https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css
    
-**Js Links: **
+**Js Links :**
 
 _jQuery :_
 https://code.jquery.com/jquery-3.6.0.js
